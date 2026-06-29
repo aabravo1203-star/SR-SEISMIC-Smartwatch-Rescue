@@ -1,0 +1,20 @@
+# LICENCIA DE USO Y DISTRIBUCIÓN PÚBLICA (BASADA EN GNU GPLv3)
+
+PROYECTO: SR-SÍSMICA / SR-SEISMIC (Software de Rescate y Baliza Inalámbrica)
+TITULAR DE LOS DERECHOS DE AUTOR ORIGINAL: Angel Bravo (DNI: 32.091.864)
+CONTACTO: +54 9 11 5383-7394 | Buenos Aires, Argentina
+
+Copyright (C) 2026 Angel Bravo.
+
+Se otorga permiso universal para la revisión, copia, distribución e implementación de esta especificación técnica, arquitectura y cualquier derivado de software, sujeto a las siguientes condiciones estrictas:
+
+1. LIBRE APLICACIÓN Y GRATUIDAD ABSOLUTA:
+Este sistema ha sido concebido como un bien tecnológico humanitario para la preservación de la vida en catástrofes sísmicas. Queda terminantemente prohibido el cobro de aranceles, suscripciones, tarifas o la comercialización directa del servicio de rescate o de la aplicación base por parte de cualquier entidad privada, pública o corporativa. El servicio derivado de esta arquitectura debe ser de acceso irrestricto y gratuito para toda la población global.
+
+2. OBLIGATORIEDAD DE MEJORAS ABIERTAS (COPYLEFT):
+Cualquier modificación, optimización, desarrollo de código o integración nativa que realicen terceros (incluyendo grandes corporaciones tecnológicas como Google, Apple, fabricantes de hardware o equipos de rescate) a partir de esta especificación técnica, se considerará un "trabajo derivado". Por lo tanto, dichos trabajos DEBEN ser publicados de forma obligatoria bajo estas mismas condiciones de código abierto y gratuidad. Nadie puede cerrar o privatizar las mejoras hechas a este ecosistema.
+
+3. RECONOCIMIENTO DE AUTORÍA INTELECTUAL:
+En toda implementación pública o privada, comercialización de dispositivos que incluyan esta tecnología nativa o documentación técnica derivada, se deberá mantener de forma visible e inalterable el reconocimiento a Angel Bravo como autor intelectual de la arquitectura original.
+
+ESTA DOCUMENTACIÓN SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. EN NINGÚN CASO EL AUTOR ORIGINAL SERÁ RESPONSABLE DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD DERIVADA DEL USO AJENO DE ESTA ESPECIFICACIÓN.
